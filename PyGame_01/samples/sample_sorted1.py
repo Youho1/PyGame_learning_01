@@ -1,4 +1,4 @@
-# sample_ sorted1.pt
+# sample_ sorted1.py
 
 a = [7, 4, 3, 1, 5]
 print(sorted(a))
